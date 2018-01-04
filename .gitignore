@@ -12,3 +12,6 @@
 hs_err_pid*
 _site/
 Gemfile.lock
+
+# idea
+.idea/*
